@@ -1,1 +1,2 @@
 Adding some text
+Trying git commit after changing the default message editor
